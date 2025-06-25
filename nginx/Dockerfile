@@ -1,4 +1,4 @@
-# Use official lightweight Nginx image
+# Use official Nginx image
 FROM nginx
 
 COPY nginx.conf /etc/nginx/nginx.conf
